@@ -7,6 +7,9 @@ coverImage: https://images.unsplash.com/photo-1493612276216-ee3925520721?ixlib=r
 
 # Example Blog Post
 
-This is an example blog post written in markdown!
+This is an example blog post !
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Hello Friends, As a computer science student we had learn many programming langauge starting from C, C++, PHP,Java, C#,.NET ,python, javascript,
+along with that we learn diffrent framework like  Struts, Spring, Joomal, Angular etc.
+
+we spent a years to learn thease languages,theories, practicles but in todays ERa or AI,learing or solving any problems becomes easier 
